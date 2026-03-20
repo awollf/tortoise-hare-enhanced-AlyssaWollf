@@ -9,6 +9,5 @@ Three commits I remember describing are:
     
 Add a screenshot of your Pull Request page.
 <img width="1280" height="312" alt="image" src="https://github.com/user-attachments/assets/54783521-941e-4db2-9a42-1c9a761943b8" />
-How do you add an image? ^
 
 Sorry, I had a lot of struggles with Git this time. I did have a lot of commits but they were not going through... I tried it multiple times... 
